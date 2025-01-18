@@ -1,4 +1,4 @@
-let chaveApi = '';
+let chaveApi = ''; //Aqui você coloca a sua chave de api para poder rodar o sitema
 let paisApiUrl = 'https://flagcdn.com/w320/';
 
 let cidadeInput = document.querySelector('#city-input');
